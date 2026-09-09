@@ -1,0 +1,13 @@
+{
+  "name": "genpark-ising-model-gibbs-sampler-mrf-skill",
+  "version": "1.0.0",
+  "description": "Markov Random Field (MRF) Ising Model Gibbs Sampler simulating ferromagnetic phase transitions, spin couplings, and canonical partition energy distributions.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ising-model",
+    "gibbs-sampling",
+    "markov-random-field",
+    "statistical-mechanics"
+  ]
+}
